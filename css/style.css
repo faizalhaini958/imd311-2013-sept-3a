@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@500&family=Noto+Color+Emoji&family=Poppins&display=swap');
+
+h1
+    {
+        color:deeppink;
+    }
+
+.menu-utama
+    {
+        background-color:crimson;
+        padding-top:20px;
+        padding-bottom:20px;
+    }
+a
+    {
+        color:white;
+        margin-left:10px;
+        text-decoration: none;
+        font-family: 'Gluten', cursive;
+    }
+
+body
+    {
+        background-image: url("../images/cz4a-x.jpg");
+        background-size: cover;
+        
+    }
+
+.slider
+    {
+        width: 100%;
+        height: 300px;
+        background-color: coral;
+        float:left;
+    }
+
+.box1
+    {
+        width: 17%;
+        height: 200px;
+        background-color:#eeba30;
+        float:left;
+        border-radius: 20px;
+        margin: 10px;
+        border: 1px solid black;
+    }
+
+.box2
+    {
+        width: 17%;
+        height: 200px;
+        background-color: orange;
+        float:left;
+        border-radius: 20px;
+        margin: 10px;
+    }
+
+.box3
+    {
+        width: 17%;
+        height: 200px;
+        background-color: gold;
+        float:left;
+        border-radius: 20px;
+        margin: 10px;
+    }
+
+.box4
+    {
+        width: 17%;
+        height: 200px;
+        background-color: orange;
+        float:left;
+        border-radius: 20px;
+        margin: 10px;
+    }
+
+.box5
+    {
+        width: 17%;
+        height: 200px;
+        background-color: gold;
+        float:left;
+        border-radius: 20px;
+        margin: 10px;
+    }
